@@ -23,7 +23,7 @@ function App() {
          <Route path="/register" component={Registerscreen}/>
          <Route path="/book/:roomid/:fromdate/:todate" component={Bookingscreen}/>
          <Route path="/profile" component={Profilescreen}/>
-         <Route path="/admin" component={Adminscreen}/>
+         <Route path="/admin7979" component={Adminscreen}/>
       </BrowserRouter>
     </div>
   );
